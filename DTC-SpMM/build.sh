@@ -1,0 +1,1 @@
+TORCH_CUDA_ARCH_LIST="8.6 8.9" python setup.py install
