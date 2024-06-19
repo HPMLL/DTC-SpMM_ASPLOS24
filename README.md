@@ -82,17 +82,17 @@ tar -zxvf origin_matrices.tar.gz
 
 **Opt2.**
 
-[Baidu Netdisk]: https://pan.baidu.com/s/1jJzMX82KVQfV8taZWGq28g?pwd=2024	"Baidu Netdisk"
+[Baidu Netdisk](https://pan.baidu.com/s/1jJzMX82KVQfV8taZWGq28g?pwd=2024)
 
 **Opt3.**
 
-[Onedrive]: https://hkustgz-my.sharepoint.com/personal/rfan404_connect_hkust-gz_edu_cn/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Frfan404%5Fconnect%5Fhkust%2Dgz%5Fedu%5Fcn%2FDocuments%2Fdtc%5Fdataset&amp;ga=1	"Onedrive"
+[Onedrive](https://hkustgz-my.sharepoint.com/personal/rfan404_connect_hkust-gz_edu_cn/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Frfan404%5Fconnect%5Fhkust%2Dgz%5Fedu%5Fcn%2FDocuments%2Fdtc%5Fdataset&amp;ga=1)
 
 or you can use wget to download: 
 
 ```shell
 wget "https://hkustgz-my.sharepoint.com/:u:/g/personal/rfan404_connect_hkust-gz_edu_cn/EcC5u1XfHwxKsfh7Xj8sWpMBoRGSXe6tlhkPnsHsuEekuQ?download=1" -O origin_matrices.tar.gz
-wget wget "https://hkustgz-my.sharepoint.com/:u:/g/personal/rfan404_connect_hkust-gz_edu_cn/Efl7AV-oH5ZKj6dkjn6wtm8BZoRHAjrGcC1zPCkEQ-Omug?download=1" -O reordered_matrices.tar.gz
+wget "https://hkustgz-my.sharepoint.com/:u:/g/personal/rfan404_connect_hkust-gz_edu_cn/Efl7AV-oH5ZKj6dkjn6wtm8BZoRHAjrGcC1zPCkEQ-Omug?download=1" -O reordered_matrices.tar.gz
 ```
 
 
